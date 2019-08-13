@@ -104,3 +104,7 @@ venv.bak/
 .mypy_cache/
 
 .idea
+
+*/token.pickle
+autoleagueplay/token.pickle
+token.pickle
