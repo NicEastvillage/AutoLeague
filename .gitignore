@@ -109,3 +109,6 @@ venv.bak/
 autoleagueplay/token.pickle
 token.pickle
 autoleagueplay/credentials.json
+autoleagueplay/current_week.txt
+autoleagueplay/ladder.txt
+autoleagueplay/previous_week.txt
