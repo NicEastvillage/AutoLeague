@@ -23,8 +23,8 @@ def get_matches(league_play_week: int = 1, sheet_name: str = "Ark1", range: str 
 
     Returns
     -------
-    list
-        An array of matches to be played
+    str
+        A string of bots
 
     Examples
     -------
