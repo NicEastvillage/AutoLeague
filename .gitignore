@@ -108,3 +108,4 @@ venv.bak/
 */token.pickle
 autoleagueplay/token.pickle
 token.pickle
+autoleagueplay/credentials.json
